@@ -1,0 +1,18 @@
+{
+  "author": "Ian Babrou <ibobrik@gmail.com> (http://bobrik.name/)",
+  "name": "locker",
+  "description": "Full-featured client for locker lock server with timeouts support",
+  "keywords": ["lock", "server", "locker", "async", "shared", "distributed"],
+  "version": "0.1.0",
+  "homepage": "https://github.com/bobrik/node-locker",
+  "repository": {
+    "url": "git@github.com:bobrik/node-locker.git"
+  },
+  "main": "./index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
